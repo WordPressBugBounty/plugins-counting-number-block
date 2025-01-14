@@ -7,6 +7,8 @@
  * Version:           1.1.0
  * Author:            Phi Phan
  * Author URI:        https://boldblocks.net
+ * Plugin URI:        https://boldblocks.net?utm_source=Counting+Number+Block&utm_campaign=visit+site&utm_medium=link&utm_content=Plugin+URI
+ * License:           GPL-2.0-or-later
  *
  * @package counting-number
  * @copyright Copyright(c) 2022, Phi Phan

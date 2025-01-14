@@ -3,16 +3,19 @@ Contributors:      Mr2P
 Tags:              Gutenberg, block, number, counter, animation
 Requires PHP:      7.0.0
 Requires at least: 5.9.0
-Tested up to:      6.6
+Tested up to:      6.7
 Stable tag:        1.1.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Donate link:       https://boldblocks.net?utm_source=wp.org&utm_campaign=readme&utm_medium=link&utm_content=Counting+Number+Block+Donate
 
-This single-block plugin provides an animated counter effect for numbers. It's fast, lightweight, SEO-friendly, accessibility-ready and can be fit in any design.
+This block provides an animated counter effect for numbers. It’s fast, lightweight, SEO-friendly, accessibility-ready, and fits any design.
 
 == Description ==
 
-Let's make your numbers stand out by animating them while still keeping them SEO-friendly and accessibility-ready. The number can be counted up or down.
+This single-block plugin makes your numbers stand out by animating them while still keeping them SEO-friendly, accessibility-ready, and respecting the reduced motion mode. The number can be counted up or down.
+
+This block performs one simple job: animating numbers. You can combine it with other blocks to fit any design.
 
 === Key features ===
 
@@ -32,13 +35,13 @@ If this plugin is useful for you, please do a quick review and [rate it](https:/
 
 Please check out my other plugins if you're interested:
 
-- [Content Blocks Builder](https://wordpress.org/plugins/content-blocks-builder) - A tool to create blocks, patterns or variations easily for your site directly on the Block Editor.
-- [Meta Field Block](https://wordpress.org/plugins/display-a-meta-field-as-block) - A block to display a meta field or an ACF field as a block. It can also be used in the Query Loop block.
-- [Block Enhancements](https://wordpress.org/plugins/block-enhancements) - A plugin to add more useful features to blocks like icon, box-shadow, transform, hover style...
-- [Icon separator](https://wordpress.org/plugins/icon-separator) - A tiny block just like the core/separator block but with the ability to add an icon to it.
-- [SVG Block](https://wordpress.org/plugins/svg-block) - A block to insert inline SVG images easily and safely. It also bundles with more than 3000 icons and some common non-rectangular dividers.
-- [Breadcrumb Block](https://wordpress.org/plugins/breadcrumb-block) - A simple breadcrumb trail block that supports JSON-LD structured data.
-- [Better YouTube Embed Block](https://wordpress.org/plugins/better-youtube-embed-block) - Embed YouTube videos without slowing down your site.
+- **[Content Blocks Builder](https://wordpress.org/plugins/content-blocks-builder)** - This plugin turns the Block Editor into a powerful page builder by allowing you to create blocks, variations, and patterns directly in the Block Editor without needing a code editor.
+- **[Meta Field Block](https://wordpress.org/plugins/display-a-meta-field-as-block)** - A block to display custom fields as blocks on the front end. It supports custom fields for posts, terms, users, and setting fields. It can also be used in the Query Loop block.
+- **[SVG Block](https://wordpress.org/plugins/svg-block)** - A block to display SVG images as blocks. Useful for images, icons, dividers, and buttons. It allows you to upload SVG images and load them into the icon library.
+- **[Icon separator](https://wordpress.org/plugins/icon-separator)** - A tiny block just like the core/separator block but with the ability to add an icon.
+- **[Breadcrumb Block](https://wordpress.org/plugins/breadcrumb-block)** - A simple breadcrumb trail block that supports JSON-LD structured data and is compatible with WooCommerce.
+- **[Block Enhancements](https://wordpress.org/plugins/block-enhancements)** - Adds practical features to blocks like icons, box shadows, transforms, etc.
+- **[Better YouTube Embed Block](https://wordpress.org/plugins/better-youtube-embed-block)** - A block to solve the performance issue with embedded YouTube videos. It can also embed multiple videos and playlists.
 
 The plugin is developed using @wordpress/create-block.
 
@@ -57,6 +60,10 @@ If you want to highlight your numbers, you could use this plugin to make a count
 = Does it fit in my design?
 
 Absolutely! It is super simple. It only animates the number, you can put it in any layout blocks.
+
+== Screenshots ==
+
+1. Block settings
 
 == Changelog ==
 
