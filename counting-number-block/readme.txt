@@ -3,7 +3,7 @@ Contributors:      Mr2P
 Tags:              Gutenberg, block, number, counter, animation
 Requires PHP:      7.0.0
 Requires at least: 5.9.0
-Tested up to:      6.7
+Tested up to:      6.8
 Stable tag:        1.1.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
