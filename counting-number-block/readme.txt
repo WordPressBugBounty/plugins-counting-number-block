@@ -1,10 +1,10 @@
 === Counting Number Block ===
 Contributors:      Mr2P
 Tags:              Gutenberg, block, number, counter, animation
-Requires PHP:      7.0.0
-Requires at least: 5.9.0
-Tested up to:      6.8
-Stable tag:        1.1.0
+Requires PHP:      7.0
+Requires at least: 5.9
+Tested up to:      6.9
+Stable tag:        1.1.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 Donate link:       https://boldblocks.net?utm_source=wp.org&utm_campaign=readme&utm_medium=link&utm_content=Counting+Number+Block+Donate
@@ -43,11 +43,11 @@ Please check out my other plugins if you're interested:
 - **[Block Enhancements](https://wordpress.org/plugins/block-enhancements)** - Adds practical features to blocks like icons, box shadows, transforms, etc.
 - **[Better YouTube Embed Block](https://wordpress.org/plugins/better-youtube-embed-block)** - A block to solve the performance issue with embedded YouTube videos. It can also embed multiple videos and playlists.
 
-The plugin is developed using @wordpress/create-block.
+The plugin is developed using @wordpress/create-block. The source code is in the trunk branch.
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/counting-number-block` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins` directory, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress
 
 
@@ -66,6 +66,12 @@ Absolutely! It is super simple. It only animates the number, you can put it in a
 1. Block settings
 
 == Changelog ==
+
+= 1.1.1 =
+*Release Date - 11 January 2026*
+
+* Improved - Replaced classnames with clsx
+* Improved - Handling of the frontend script when hosts or cache plugins defer or delay it.
 
 = 1.1.0 =
 *Release Date - 30 June 2024*
