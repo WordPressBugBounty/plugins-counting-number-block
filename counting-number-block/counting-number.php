@@ -4,7 +4,7 @@
  * Description:       An animated number counting effect block.
  * Requires at least: 5.9
  * Requires PHP:      7.0
- * Version:           1.1.1
+ * Version:           1.1.2
  * Author:            Phi Phan
  * Author URI:        https://boldblocks.net
  * Plugin URI:        https://boldblocks.net?utm_source=Counting+Number+Block&utm_campaign=visit+site&utm_medium=link&utm_content=Plugin+URI

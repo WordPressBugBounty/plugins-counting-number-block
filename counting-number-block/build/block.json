@@ -17,14 +17,16 @@
       "source": "attribute",
       "selector": ".wp-block-boldblocks-counting-number > .value",
       "attribute": "data-value",
-      "__experimentalRole": "content"
+      "__experimentalRole": "content",
+      "default": 1000
     },
     "startVal": {
       "type": "string",
       "source": "attribute",
       "selector": ".wp-block-boldblocks-counting-number > .value",
       "attribute": "data-start-val",
-      "__experimentalRole": "content"
+      "__experimentalRole": "content",
+      "default": 0
     },
     "duration": {
       "type": "string",
