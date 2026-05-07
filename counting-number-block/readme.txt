@@ -3,8 +3,8 @@ Contributors:      Mr2P
 Tags:              Gutenberg, block, number, counter, animation
 Requires PHP:      7.0
 Requires at least: 5.9
-Tested up to:      6.9
-Stable tag:        1.1.2
+Tested up to:      7.0
+Stable tag:        1.1.3
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 Donate link:       https://boldblocks.net?utm_source=wp.org&utm_campaign=readme&utm_medium=link&utm_content=Counting+Number+Block+Donate
@@ -66,6 +66,11 @@ Absolutely! It is super simple. It only animates the number, you can put it in a
 1. Block settings
 
 == Changelog ==
+
+= 1.1.3 =
+*Release Date - 07 May 2026*
+
+* Improved - Updated inspector control style
 
 = 1.1.2 =
 *Release Date - 11 February 2026*
